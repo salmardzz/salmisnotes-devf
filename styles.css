@@ -63,7 +63,7 @@ body {
 
 .header {
     height: 60vh !important;
-    background: url(sss.jpg) no-repeat center;
+    background: url(./img/sss.jpg) no-repeat center;
     background-size: cover;
 
 }
@@ -161,7 +161,7 @@ li{
     background: #fbe3e3;
     text-align: center;
     border-radius: 1rem;
-    box-shadow: 0 .3rem 5rem rgba(0, 0, 0, );
+    box-shadow: 0 .3rem 5rem rgba(115, 158, 76, 0.314);
     margin: 2rem;
 }
 
@@ -199,7 +199,7 @@ li{
 
 
 .price{
-    background: url(study.jpg) no-repeat center;
+    background: url(./img/study.jpg) no-repeat center;
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
@@ -207,10 +207,23 @@ li{
 
 .contain {
     
-    padding-top: 20px;
-    background: #f6c8c7;
+    padding-top: 50px;
+    height: auto;
+    background: #e3aaaa;
     padding-bottom: 0;
 }
+
+.enlaces {
+
+    background: url(./img/Vaporwave.jpg) no-repeat center;
+    height: auto;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+
+}
+
+
 
 @media (max-width: 768px) {
 
