@@ -46,6 +46,10 @@ Para visualizar la página correctamente, solo se necesita:
 
 
 
-## Licencia
+## Legales 
+
+-Salma Rodríguez
+
+-MIT
 
 2024 **Salmis Notes ®** - Todos los derechos reservados.
